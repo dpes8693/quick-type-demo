@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "quicktype-core": "^23.0.81"
+    },
+    "type": "module"
+}
