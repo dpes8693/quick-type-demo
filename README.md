@@ -2,6 +2,7 @@
 將json轉換成各種強行別語言的Model
 
 <https://app.quicktype.io/>
+
 <https://github.com/glideapps/quicktype/tree/master>
 
 ## demo1
@@ -31,6 +32,7 @@
 ```
 
   // 語言, className, 要轉的字串
+  
   const { lines } = await quicktypeJSON("csharp", "Person", jsonString);
 
 ```c#
